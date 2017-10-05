@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_enter.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\back_enter.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\main_enter.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\main_enter.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_screen_hold.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\splash_screen_hold.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_exit.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\anim_exit.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rack.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\rack.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\main_exit.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\main_exit.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gradient_enter.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\gradient_enter.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\splash_screen_fade.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\splash_screen_fade.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tip_enter.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\tip_enter.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tip_back_show.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\tip_back_show.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\back_exit.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\back_exit.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_enter.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\anim_enter.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

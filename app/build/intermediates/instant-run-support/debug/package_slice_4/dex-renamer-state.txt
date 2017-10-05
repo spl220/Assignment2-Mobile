@@ -1,0 +1,4 @@
+#Thu Oct 05 13:08:07 AEDT 2017
+base.0=D\:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
