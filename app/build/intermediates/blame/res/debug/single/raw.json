@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dftest.txt",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\raw\\dftest.txt"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dftest.txt",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\raw\\dftest.txt"
     }
 ]

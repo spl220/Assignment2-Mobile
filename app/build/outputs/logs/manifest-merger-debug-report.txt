@@ -1,147 +1,166 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:3:7-32
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:5:7-32
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:4:7-30
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:6:5-44
-MERGED from [com.android.support:design:25.3.1] C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lenovo\.android\build-cache\00f163fb5dac7cf41956d01668fca65615141c75\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lenovo\.android\build-cache\526cb8a892e01fe5fcc434d8b1350c1f77d6fbee\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lenovo\.android\build-cache\419108304fcf2dc10d4e4776f7d301e1e2fbc3b2\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Lenovo\.android\build-cache\dcfac5261b13a9d774009a8dfbc1500f42fe5d37\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Lenovo\.android\build-cache\bb04dd5d87bd160995eaa16123480f374d7beca8\output\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\Lenovo\.android\build-cache\75bb3c9f29ae377aa643478b48de44be5955c709\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Lenovo\.android\build-cache\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Lenovo\.android\build-cache\2cb0bc410d32aee3895a5f7a04640ae903b1292b\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Lenovo\.android\build-cache\e62a0661a31dacc32655e2aca3a484d02b758385\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo\.android\build-cache\fbb7d5d507dfb20641085e6710d5ee56ec30f5cb\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lenovo\.android\build-cache\3200109f6e4b6ca2f60f32d855ded15588a2c210\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lenovo\.android\build-cache\5e679b1422e41f5b0078df1496c4abbee54d493b\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lenovo\.android\build-cache\3c74f437bbf92b711f1e573d9c98a1da37ab1dfd\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lenovo\.android\build-cache\733d1768abd29d205569bb0d4c09a6460c53f69c\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lenovo\.android\build-cache\90b295c8b9925f1ab1cd90bc83ae919312382d53\output\AndroidManifest.xml:21:5-23:58
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\0ecb1468494d359de8ff1bb72d662f21b7e2510f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\50238682448a72eaecfa759c6d097495faf0d46f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\abf845d97a4ed39ce2158f3bc3210a80f079aeaa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\c5790f38b54d7927e29c06c926eb1ed501995882\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\f7f10cbf1fd4975a0bc612ae45ffdd389744a1e7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\bee287696ba2910f15769185d81e8863ee5ac22d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\03fd95b0602713a57519c578920e39f51a17147b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\fdc2f3534c1c7e10b249c42778685cb893143d61\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\db650d277404216833e18daa64fe6cc790142b10\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shunshun\.android\build-cache\17c3b0097813b0781fcf43547c2c9b68f51678e8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\0ecb1468494d359de8ff1bb72d662f21b7e2510f\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:6:15-41
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:7:22-78
-uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:8:5-78
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:8:22-76
-uses-permission#android.permisssion.INTERNET
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:9:5-84
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:9:22-65
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:13:22-77
 application
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:10:5-42:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lenovo\.android\build-cache\00f163fb5dac7cf41956d01668fca65615141c75\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lenovo\.android\build-cache\526cb8a892e01fe5fcc434d8b1350c1f77d6fbee\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lenovo\.android\build-cache\419108304fcf2dc10d4e4776f7d301e1e2fbc3b2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Lenovo\.android\build-cache\bb04dd5d87bd160995eaa16123480f374d7beca8\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\Lenovo\.android\build-cache\75bb3c9f29ae377aa643478b48de44be5955c709\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Lenovo\.android\build-cache\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\Lenovo\.android\build-cache\2cb0bc410d32aee3895a5f7a04640ae903b1292b\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Lenovo\.android\build-cache\e62a0661a31dacc32655e2aca3a484d02b758385\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo\.android\build-cache\fbb7d5d507dfb20641085e6710d5ee56ec30f5cb\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lenovo\.android\build-cache\3200109f6e4b6ca2f60f32d855ded15588a2c210\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lenovo\.android\build-cache\5e679b1422e41f5b0078df1496c4abbee54d493b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lenovo\.android\build-cache\3c74f437bbf92b711f1e573d9c98a1da37ab1dfd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lenovo\.android\build-cache\733d1768abd29d205569bb0d4c09a6460c53f69c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lenovo\.android\build-cache\90b295c8b9925f1ab1cd90bc83ae919312382d53\output\AndroidManifest.xml:29:5-20
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:15:5-36:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\0ecb1468494d359de8ff1bb72d662f21b7e2510f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\50238682448a72eaecfa759c6d097495faf0d46f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\abf845d97a4ed39ce2158f3bc3210a80f079aeaa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\c5790f38b54d7927e29c06c926eb1ed501995882\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\f7f10cbf1fd4975a0bc612ae45ffdd389744a1e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\bee287696ba2910f15769185d81e8863ee5ac22d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\03fd95b0602713a57519c578920e39f51a17147b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\fdc2f3534c1c7e10b249c42778685cb893143d61\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\db650d277404216833e18daa64fe6cc790142b10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shunshun\.android\build-cache\17c3b0097813b0781fcf43547c2c9b68f51678e8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:11:5-31:19
 	android:label
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:10:48-80
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:10:18-47
-meta-data#com.google.android.gms.version
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:11:9-12:69
-MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\Lenovo\.android\build-cache\e62a0661a31dacc32655e2aca3a484d02b758385\output\AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:12:13-66
-	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:11:20-65
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:11:18-44
 activity#com.df.dianping.SplashActivity
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:13:9-22:20
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:18:9-28:20
 	android:label
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:14:19-51
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:21:13-45
 	android:configChanges
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:15:19-54
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:20:13-48
 	android:theme
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:16:19-82
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:22:13-76
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:13:19-49
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:19:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:18:13-21:29
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:20:27-74
-activity#com.df.dianping.ResultActivity
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:24:9-28:20
-	android:configChanges
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:26:10-45
-	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:25:10-40
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.df.dianping.DetailActivity
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:30:9-34:20
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:29:9-31:60
 	android:configChanges
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:32:10-45
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:31:13-48
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:31:10-40
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:30:13-43
 activity#com.df.dianping.MainActivity
-ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:36:9-40:14
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:32:9-34:60
 	android:configChanges
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:38:4-39
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:34:13-48
 	android:name
-		ADDED from D:\Semester-4\Assignment2-Mobile\app\src\main\AndroidManifest.xml:37:4-32
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:33:13-41
+activity#com.df.dianping.CommentActivity
+ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from D:\mobile\Assignment2-Mobile\app\src\main\AndroidManifest.xml:35:19-50
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lenovo\.android\build-cache\00f163fb5dac7cf41956d01668fca65615141c75\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lenovo\.android\build-cache\526cb8a892e01fe5fcc434d8b1350c1f77d6fbee\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lenovo\.android\build-cache\419108304fcf2dc10d4e4776f7d301e1e2fbc3b2\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Lenovo\.android\build-cache\dcfac5261b13a9d774009a8dfbc1500f42fe5d37\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Lenovo\.android\build-cache\bb04dd5d87bd160995eaa16123480f374d7beca8\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lenovo\.android\build-cache\fbb7d5d507dfb20641085e6710d5ee56ec30f5cb\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lenovo\.android\build-cache\3200109f6e4b6ca2f60f32d855ded15588a2c210\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lenovo\.android\build-cache\5e679b1422e41f5b0078df1496c4abbee54d493b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lenovo\.android\build-cache\3c74f437bbf92b711f1e573d9c98a1da37ab1dfd\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lenovo\.android\build-cache\733d1768abd29d205569bb0d4c09a6460c53f69c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lenovo\.android\build-cache\90b295c8b9925f1ab1cd90bc83ae919312382d53\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\0ecb1468494d359de8ff1bb72d662f21b7e2510f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\50238682448a72eaecfa759c6d097495faf0d46f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\abf845d97a4ed39ce2158f3bc3210a80f079aeaa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\c5790f38b54d7927e29c06c926eb1ed501995882\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\f7f10cbf1fd4975a0bc612ae45ffdd389744a1e7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\bee287696ba2910f15769185d81e8863ee5ac22d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\03fd95b0602713a57519c578920e39f51a17147b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\fdc2f3534c1c7e10b249c42778685cb893143d61\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\db650d277404216833e18daa64fe6cc790142b10\output\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\0ecb1468494d359de8ff1bb72d662f21b7e2510f\output\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Lenovo\.android\build-cache\86488d79cc332047732b1f50fbdd76c16e8fd78f\output\AndroidManifest.xml:26:9-47
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Lenovo\.android\build-cache\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\output\AndroidManifest.xml:19:9-172
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Shunshun\.android\build-cache\0ecb1468494d359de8ff1bb72d662f21b7e2510f\output\AndroidManifest.xml:26:9-47
+activity#com.microsoft.windowsazure.mobileservices.authentication.RedirectUrlActivity
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:12:9-23:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Lenovo\.android\build-cache\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\output\AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Lenovo\.android\build-cache\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\Lenovo\.android\build-cache\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:13:13-104
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:15:13-22:29
+action#android.intent.action.VIEW
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:16:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:18:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:19:27-75
+data
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:21:17-43
+	android:scheme
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:21:23-40
+activity#com.microsoft.windowsazure.mobileservices.authentication.CustomTabsIntermediateActivity
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:25:13-115
+activity#com.microsoft.windowsazure.mobileservices.authentication.CustomTabsLoginActivity
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:27:9-30:47
+	android:launchMode
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:30:13-44
+	android:exported
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\Shunshun\.android\build-cache\321b07b159f6559ab36cfa53acb2596ba1ec9d72\output\AndroidManifest.xml:28:13-108

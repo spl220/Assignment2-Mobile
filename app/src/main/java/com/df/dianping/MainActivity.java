@@ -11,9 +11,6 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.location.LocationProvider;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.design.widget.Snackbar;
-import android.support.v4.app.ActivityCompat;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -29,7 +26,7 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
+
 
 import com.df.widget.PoiListItem;
 
@@ -38,55 +35,32 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Map;
 
-import com.google.android.gms.location.FusedLocationProviderClient;
-import com.google.android.gms.location.LocationServices;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-
-import android.support.*;
-
-import static android.content.ContentValues.TAG;
 
 public class MainActivity extends Activity implements View.OnClickListener {
     private Button btnSearch;
-    public Location mLastLocation;
+    protected Location mLastLocation;
     private ArrayList<Map<String, Object>> mData;
     private ArrayList<Map<String, Object>> filterData;
     private View loadingView;
     private ListView listView;
-    private FusedLocationProviderClient mFusedLocationClient;
     ListAdapter resultAdapter = null;
     private static final int REQUEST_PERMISSIONS_REQUEST_CODE = 34;
-    public double currentLongitude;
-    public double currentLatitude;
     private LocationProvider _locationProvider;
     private LocationManager _locationManager;
-
+    Location location;
 
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
+        System.out.println("get location");
+        location = getCurrentLocation();
+
+
         setContentView(R.layout.searchresult);
-
-        _locationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
-        _locationProvider = _locationManager.getProvider(LocationManager.NETWORK_PROVIDER);
-        @SuppressWarnings("MissingPermission")
-        Location location = _locationManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
-
-        /*mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
-        if (!checkPermissions()) {
-            requestPermissions();
-        } else {
-            getLastLocation();
-
-        }*/
-        DBHelper mydb = new DBHelper(this);
-        //mydb.getWritableDatabase().execSQL("drop table  contacts");
-        mydb.getWritableDatabase().execSQL("create table restaurants (id integer primary key, name text, phone text, street text, latitude real, longitude real, rank real)");
-        mydb.getWritableDatabase().execSQL("INSERT INTO restaurants VALUES(0,'11','22','33',44,55,66)");
-        mData=mydb.getAllContacts();
-        //mData = PoiResultData.searchDatebase(location.getLatitude(),location.getLongitude());
-        //mData = PoiResultData.searchDatebase(mLastLocation);
-        //filterData = mData;
+        //System.out.println("getData:+AAAAA"+location.toString());
+        // get the data of restaurants
+        mData = PoiResultData.getRestaurantData();
+        //mData = PoiResultData.calculateDistance(mData,location);
+        filterData = mData;
 
         listView = (ListView) findViewById(R.id.resultlist);
         //list.setOnItemClickListener(mOnClickListener);
@@ -107,106 +81,25 @@ public class MainActivity extends Activity implements View.OnClickListener {
         listView.setOnItemClickListener(mOnClickListener);
 
     }
-
-    private boolean checkPermissions() {
-        int permissionState = ActivityCompat.checkSelfPermission(this,
-                Manifest.permission.ACCESS_COARSE_LOCATION);
-        return permissionState == PackageManager.PERMISSION_GRANTED;
-    }
-    @SuppressWarnings("MissingPermission")
-    private void getLastLocation() {
-        mFusedLocationClient.getLastLocation()
-                .addOnCompleteListener(this, new OnCompleteListener<Location>() {
-                    @Override
-                    public void onComplete(@NonNull Task<Location> task) {
-                        if (task.isSuccessful() && task.getResult() != null) {
-                            mLastLocation = task.getResult();
-                            System.out.println("Lastlocation current: latitude:+AAAA"+mLastLocation.getLatitude());
-                            System.out.println("Lastlocation current: longitude:+AAAA"+mLastLocation.getLongitude());
-                        } else {
-                            Log.w(TAG, "getLastLocation:exception", task.getException());
-                            //showSnackbar(getString(R.string.no_location_detected));
-                        }
-                    }
-                });
-    }
-
-    /**
-     * Shows a {@link Snackbar} using {@code text}.
-     *
-     * @param text The Snackbar text.
-     */
-    private void showSnackbar(final String text) {
-        View container = findViewById(android.R.id.content);
-        if (container != null) {
-            Snackbar.make(container, text, Snackbar.LENGTH_LONG).show();
-        }
-    }
-
-    /**
-     * Shows a {@link Snackbar}.
-     *
-     * @param mainTextStringId The id for the string resource for the Snackbar text.
-     * @param actionStringId   The text of the action item.
-     * @param listener         The listener associated with the Snackbar action.
-     */
-    private void showSnackbar(final int mainTextStringId, final int actionStringId,
-                              View.OnClickListener listener) {
-        Snackbar.make(findViewById(android.R.id.content),
-                getString(mainTextStringId),
-                Snackbar.LENGTH_INDEFINITE)
-                .setAction(getString(actionStringId), listener).show();
-    }
-    private void startLocationPermissionRequest() {
-        ActivityCompat.requestPermissions(MainActivity.this,
-                new String[]{Manifest.permission.ACCESS_COARSE_LOCATION},
-                REQUEST_PERMISSIONS_REQUEST_CODE);
-    }
-    private void requestPermissions() {
-        boolean shouldProvideRationale =
-                ActivityCompat.shouldShowRequestPermissionRationale(this,
-                        Manifest.permission.ACCESS_COARSE_LOCATION);
-
-        // Provide an additional rationale to the user. This would happen if the user denied the
-        // request previously, but didn't check the "Don't ask again" checkbox.
-        if (shouldProvideRationale) {
-            Log.i(TAG, "Displaying permission rationale to provide additional context.");
-
-            showSnackbar(R.string.permission_rationale, android.R.string.ok,
-                    new View.OnClickListener() {
-                        @Override
-                        public void onClick(View view) {
-                            // Request permission
-                            startLocationPermissionRequest();
-                        }
-                    });
-
-        } else {
-            Log.i(TAG, "Requesting permission");
-            // Request permission. It's possible this can be auto answered if device policy
-            // sets the permission in a given state or the user denied the permission
-            // previously and checked "Never ask again".
-            startLocationPermissionRequest();
-        }
+    // Get current location
+    private Location getCurrentLocation() {
+        //get the currentLocation
+        _locationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
+        _locationProvider = _locationManager.getProvider(LocationManager.NETWORK_PROVIDER);
+        @SuppressWarnings("MissingPermission")
+        Location location = _locationManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+        return location;
     }
 
     private AdapterView.OnItemClickListener mOnClickListener = new AdapterView.OnItemClickListener() {
         public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
             Intent intent = new Intent();
-            PoiListItem tempPol = (PoiListItem) v;
-            String name = tempPol.getName().getText().toString();
-            System.out.println("get name from poilistitem:@@@@" + name);
-            Map map = filterData.get(position);
-            System.out.println("get name from filterDatan:@@@@" + map.get("name").toString());
-            System.out.println("choose id:@@@@" + id);
-            System.out.println("choose view@@@@" + v.toString());
             intent.setClass(MainActivity.this, DetailActivity.class);
-            Bundle bundle = new Bundle();
-            bundle.putString("name", name);
-            bundle.putInt("position", position);
-            intent.putExtras(bundle);
+            Restaurant restaurant = new Restaurant(mData.get(position));
+            //Bundle bundle = new Bundle();
+            //bundle.putString("restaurant", restaurant);
+            intent.putExtra("restaurant",restaurant);
             startActivity(intent);
-            //ResultActivity.this.finish();
         }
     };
 
@@ -254,12 +147,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
                     map.get("addr").toString(),
                     ((Integer) map.get("star")).intValue(),
                     ((Integer) map.get("busy")).intValue(),
-                    ((Boolean) map.get("card")).booleanValue(),
-                    ((Boolean) map.get("promo")).booleanValue(),
-                    ((Boolean) map.get("checkin")).booleanValue()
+                    map.get("distance").toString()
             );
-
-            item.setDistanceText(map.get("distance").toString());
             if (position == filterData.size() - 1) {
                 listView.removeFooterView(loadingView);
             }

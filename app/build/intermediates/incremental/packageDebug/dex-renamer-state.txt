@@ -1,7 +1,4 @@
-#Thu Oct 05 17:06:03 AEDT 2017
-base.0=D\:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0d0631b92e183652c398e6b0530d60273a9a72b
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_132ad5390bbf4f34b26913031a22a213b0cdc7a0\\classes.dex
-base.1=D\:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_132ad5390bbf4f34b26913031a22a213b0cdc7a0
-file.0=D\:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0d0631b92e183652c398e6b0530d60273a9a72b\\classes.dex
+#Sat Oct 07 19:32:52 AEDT 2017
+base.0=D\:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -34,10 +34,10 @@ import static com.df.dianping.R.id.maps;
 
 public class DetailActivity extends Activity implements OnClickListener
 {
-	
-	Handler handler = new Handler() 
+
+	Handler handler = new Handler()
 	{
-		public void handleMessage(Message paramMessage) 
+		public void handleMessage(Message paramMessage)
 		{
 			if(paramMessage.what == 1)
 			{
@@ -72,29 +72,29 @@ public class DetailActivity extends Activity implements OnClickListener
 
 
         LinearLayout scroll = (LinearLayout)findViewById(R.id.lite_list);
-        
+
         LayoutParams layoutParams = new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.WRAP_CONTENT);
         scroll.addView(restaurantDetail, layoutParams);
-        
+
         new Thread()
         {
         	public void run()
         	{
-        		try 
+        		try
         		{
 					Thread.sleep(1500);
-				} 
-        		catch (InterruptedException e) 
+				}
+        		catch (InterruptedException e)
         		{
 					e.printStackTrace();
 				}
-        		
+
         		Message msg = new Message();
         		msg.what = 1;
         		handler.sendMessage(msg);
         	}
         }.start();
-        
+
         prepareQuickActionBar();
         enterAnim = AnimationUtils.loadAnimation(this, R.anim.anim_enter);
         exitAnim = AnimationUtils.loadAnimation(this, R.anim.anim_exit);
@@ -108,11 +108,11 @@ public class DetailActivity extends Activity implements OnClickListener
 
         View btnMore = findViewById(R.id.more);
         btnMore.setOnClickListener(this);
-       
+
         View btnRequest = findViewById(R.id.requestroute);
         btnRequest.setOnClickListener(this);
 
-       
+
 	}
 
 	private void InitialResultDetails(Map<String, Object> map) {
@@ -238,8 +238,8 @@ public class DetailActivity extends Activity implements OnClickListener
 		}
 
 	}
-	
-	
+
+
 	private void prepareQuickActionBar() {
 		this.mBar = new QuickActionBar(this);
 		this.mBar.addQuickAction(new MyQuickAction(this, R.drawable.icon_car,

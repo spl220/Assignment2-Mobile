@@ -8,6 +8,18 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
@@ -24,8 +36,28 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",

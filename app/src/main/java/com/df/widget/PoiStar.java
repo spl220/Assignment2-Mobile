@@ -10,20 +10,20 @@ import android.widget.ImageView;
 
 public class PoiStar extends ImageView {
 
-	  private static Drawable DRAWABLE00;
-	  private static Drawable DRAWABLE05;
-	  private static Drawable DRAWABLE10;
-	  private static Drawable DRAWABLE15;
-	  private static Drawable DRAWABLE20;
-	  private static Drawable DRAWABLE25;
-	  private static Drawable DRAWABLE30;
-	  private static Drawable DRAWABLE35;
-	  private static Drawable DRAWABLE40;
-	  private static Drawable DRAWABLE45;
-	  private static Drawable DRAWABLE50;
-	 
-	  private int star = -1;
-	
+	private static Drawable DRAWABLE00;
+	private static Drawable DRAWABLE05;
+	private static Drawable DRAWABLE10;
+	private static Drawable DRAWABLE15;
+	private static Drawable DRAWABLE20;
+	private static Drawable DRAWABLE25;
+	private static Drawable DRAWABLE30;
+	private static Drawable DRAWABLE35;
+	private static Drawable DRAWABLE40;
+	private static Drawable DRAWABLE45;
+	private static Drawable DRAWABLE50;
+
+	private int star = -1;
+
 	public PoiStar(Context context) {
 		super(context);
 	}
@@ -35,14 +35,14 @@ public class PoiStar extends ImageView {
 	public PoiStar(Context context, AttributeSet attrs, int defStyle) {
 		super(context, attrs, defStyle);
 	}
-	
+
 	public int getStar()
 	{
 		return this.star;
 	}
-	
+
 	/**
-	 * 
+	 *
 	 * @param paramInt the valid value only contain 
 	 *  0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50
 	 */
@@ -52,7 +52,7 @@ public class PoiStar extends ImageView {
 		switch(paramInt)
 		{
 			case 0:
-			{	
+			{
 				if(DRAWABLE00 == null)
 				{
 					DRAWABLE00 = getResources().getDrawable(R.drawable.star00);
@@ -60,7 +60,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE00);
 				break;
 			}
-			
+
 			case 5:
 			{
 				if(DRAWABLE05 == null)
@@ -70,7 +70,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE05);
 				break;
 			}
-			
+
 			case 10:
 			{
 				if(DRAWABLE10 == null)
@@ -80,7 +80,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE10);
 				break;
 			}
-			
+
 			case 15:
 			{
 				if(DRAWABLE15 == null)
@@ -90,7 +90,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE15);
 				break;
 			}
-			
+
 			case 20:
 			{
 				if(DRAWABLE20 == null)
@@ -100,7 +100,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE20);
 				break;
 			}
-			
+
 			case 25:
 			{
 				if(DRAWABLE25 == null)
@@ -110,7 +110,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE25);
 				break;
 			}
-			
+
 			case 30:
 			{
 				if(DRAWABLE30 == null)
@@ -129,7 +129,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE35);
 				break;
 			}
-			
+
 			case 40:
 			{
 				if(DRAWABLE40 == null)
@@ -148,7 +148,7 @@ public class PoiStar extends ImageView {
 				setImageDrawable(DRAWABLE45);
 				break;
 			}
-			
+
 			case 50:
 			{
 				if(DRAWABLE50 == null)

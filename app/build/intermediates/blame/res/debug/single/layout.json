@@ -1,99 +1,83 @@
 [
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\category.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_navigation_menu.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_title_item.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\sort_title_item.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\categoryheader.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\categoryheader.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_action.xml"
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poiinfo.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\poiinfo.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen_view.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\splash_screen_view.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listfooter.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\listfooter.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchresult.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\searchresult.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resultitem.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\resultitem.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -116,32 +100,28 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listfooter.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\listfooter.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_action_bar.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\quick_action_bar.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_label_item.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\activity_label_item.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
@@ -152,24 +132,40 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resultitem.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\resultitem.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_title_item.xml",
@@ -188,16 +184,8 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -208,32 +196,32 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\categoryitem.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\categoryitem.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen_view.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\splash_screen_view.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list_item.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\dialog_list_item.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -242,6 +230,10 @@
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -256,12 +248,12 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_action_bar_item.xml",
@@ -270,5 +262,281 @@
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\category.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poiinfo.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\poiinfo.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchresult.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\searchresult.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poidetail.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\poidetail.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poiinfo.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\poiinfo.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_action_bar_item.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\quick_action_bar_item.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchresult.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\searchresult.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resultitem.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\resultitem.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listfooter.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\listfooter.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_action_bar.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\quick_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rate.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\activity_rate.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_to_do.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\row_list_to_do.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\categoryitem.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\categoryitem.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen_view.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\splash_screen_view.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_list_item.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\dialog_list_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_label_item.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\layout\\activity_label_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\layout\\abc_screen_simple.xml"
     }
 ]

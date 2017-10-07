@@ -8,24 +8,16 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_border.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_border.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_shop_fav.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_shop_fav.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\text_background.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\text_background.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\text_background.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\text_background.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
@@ -34,10 +26,6 @@
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_upload_photo.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_upload_photo.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
@@ -52,10 +40,6 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_selected_color.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_selected_color.xml"
     },
@@ -68,112 +52,112 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\imagebutton_background.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\imagebutton_background.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_dropdown.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_dropdown.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_unselected_color.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_unselected_color.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_option.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\popup_option.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\73884936384542ed1226afa1a4ff4531d72b65a8\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_whitelink.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_whitelink.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grid_selector_background.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\grid_selector_background.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\86488d79cc332047732b1f50fbdd76c16e8fd78f\\output\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_upload_photo.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_upload_photo.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_selected_color.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_selected_color.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\popup_option.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\popup_option.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
@@ -184,12 +168,36 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_shop_checkin.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_shop_checkin.xml"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_selected_color_border.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_selected_color_border.xml"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
@@ -200,48 +208,44 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_weight.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_weight.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\arrow.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\arrow.xml"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_circle.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_circle.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_circle.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_circle.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_border.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_border.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quick_action_bar_item.xml",
@@ -252,8 +256,16 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grid_selector_background.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\grid_selector_background.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
@@ -268,44 +280,48 @@
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_whitelink.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_graylink.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_graylink.xml"
-    },
-    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_feedback.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_feedback.xml"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_unselected_color_border.xml",
         "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_unselected_color_border.xml"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\73884936384542ed1226afa1a4ff4531d72b65a8\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_more.xml",
-        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_more.xml"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
@@ -316,12 +332,16 @@
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_selected_color_border.xml",
@@ -330,5 +350,317 @@
     {
         "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
         "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_border.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_border.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\text_background.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\text_background.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_upload_photo.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_upload_photo.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quick_action_bar_item.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\quick_action_bar_item.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\arrow.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\arrow.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_unselected_color.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_unselected_color.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\imagebutton_background.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\imagebutton_background.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_dropdown.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_dropdown.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_feedback.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_feedback.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_dropdown.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_dropdown.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\channel_bar.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\channel_bar.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_unselected_color_border.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_unselected_color_border.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\c50aa5cea7e51a67d125e4cdd06e6864738af2b1\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_unselected_color.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\list_item_unselected_color.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\73884936384542ed1226afa1a4ff4531d72b65a8\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\grid_selector_background.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\grid_selector_background.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\73884936384542ed1226afa1a4ff4531d72b65a8\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_weight.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_weight.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_weight.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_weight.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\73884936384542ed1226afa1a4ff4531d72b65a8\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_shop_fav.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_shop_fav.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_shop_checkin.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_shop_checkin.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_graylink.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_graylink.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_feedback.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_feedback.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\4e59fca47fcfa3e23748c68c7d4e71955b8ffb8f\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_graylink.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\btn_graylink.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_more.xml",
+        "source": "D:\\Semester-4\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_more.xml"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\toolbar_more.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\toolbar_more.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\73884936384542ed1226afa1a4ff4531d72b65a8\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\imagebutton_background.xml",
+        "source": "D:\\mobile\\Assignment2-Mobile\\app\\src\\main\\res\\drawable-mdpi\\imagebutton_background.xml"
+    },
+    {
+        "merged": "D:\\Semester-4\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\00f163fb5dac7cf41956d01668fca65615141c75\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\mobile\\Assignment2-Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Shunshun\\.android\\build-cache\\0ecb1468494d359de8ff1bb72d662f21b7e2510f\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     }
 ]
